@@ -1,8 +1,13 @@
 h1 {
     text-align: center;
+    color: crimson;
 }
 
 body {
     background-color: #333;
+}
+
+a {
+    padding: 50px;
 }
 
